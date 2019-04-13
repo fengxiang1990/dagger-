@@ -724,4 +724,4 @@ public abstract class FragmentModule {
 
 关于更多Dagger在Android中的用法可以参考
 https://google.github.io/dagger/android
-
+thanks
